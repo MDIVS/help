@@ -4,6 +4,7 @@ You can use anything from here as you want 😀
 Credits are not necessary but really appreciated 😊  
 
 # Summary
+- __[MDIVS GitHub profile](https://github.com/MDIVS)__: You can find more here
 - __[Internet Issues](/internet-issues/README.md)__: Useful commands to try solve internet issues
 - __[git tips](https://github.com/MDIVS/git-tips)__: Git usage tips that I developed in my daily life
 
